@@ -1,5 +1,5 @@
 {
-  "name": "eleventy-sample",
+  "name": "logisoft-kz",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,7 +9,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Logisoft LLP",
   "license": "ISC",
   "devDependencies": {
     "@11ty/eleventy": "^2.0.1",
